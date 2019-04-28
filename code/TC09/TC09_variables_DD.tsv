@@ -1,0 +1,50 @@
+*Variable*	*Value*
+${VALID USER}	wsbjustyna@wp.pl
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${SERVER}	https://www.itaka.pl/
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${BROWSER}	Firefox
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${DELAY}	0
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${VALID USER}	wsbjustyna@wp.pl
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${VALID PASSWORD}	wsbcwicz2018
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${LOGIN URL}	https://user.itaka.pl/
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${WELCOME URL}	https://www.itaka.pl/strefa-klienta/
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${ERROR URL}	https://user.itaka.pl/
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+@{SHORTPWD}	aa	bb	cc
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+@{LONGPWD}	qwertyuiop	asdfghjkl	zxcvbnm
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+@{INVALID USER}	user1	user2@w	user@wp.pl
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+${Empty}
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+@{message_invalid_pwd}	"Minimalna ilość znaków wynosi 5."	"Nieprawidłowe dane."
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+@{message_invalid_e-mail}	"Wpisz poprawny adres e-mail."
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+@{message_invalid_user}	"Nieprawidłowe dane."
+
+*Variable*	*Value*	*Value*	*Value*	*Value*
+@{message_empty_field}	"Pole jest wymagane."
